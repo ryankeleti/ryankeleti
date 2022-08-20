@@ -1,3 +1,2 @@
 - [my personal website](https://ryankeleti.com/)
-- [math stuff](https://fppf.site/)
 - [other git repos](https://git.ryankeleti.com/)
